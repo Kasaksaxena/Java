@@ -36,9 +36,9 @@
         },
         {
             "type": "java",
-            "name": "RemoveA",
+            "name": "RemoveA2",
             "request": "launch",
-            "mainClass": "RemoveA",
+            "mainClass": "RemoveA2",
             "projectName": "Java_cbfeb095"
         }
     ]
