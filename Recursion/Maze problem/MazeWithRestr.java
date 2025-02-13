@@ -36,7 +36,7 @@ public class MazeWithRestr {
            list.addAll( pathret(p +'R',maze, r,c+1));
         
        
-        return list;
+        
         }
 
         return list;
