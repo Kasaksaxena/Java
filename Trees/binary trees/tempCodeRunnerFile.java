@@ -1,0 +1,1 @@
+            leftToRight = !leftToRight;
