@@ -1,11 +1,10 @@
-import java.util.*;
 
 class DSUSetUnion{
     static int[] parent;
     static void  dsu(int n){
         parent = new int[n + 1];
         // initially every node is it own  parent
-        for(int i =0; i <n;i++){
+        for(int i =0; i <=n;i++){
             parent[i] =i;
         }
     }
